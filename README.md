@@ -12,4 +12,8 @@ This is a sample readme file
 
 36
 
+<<<<<<< HEAD
 #7.2
+=======
+#7.1
+>>>>>>> verybad
